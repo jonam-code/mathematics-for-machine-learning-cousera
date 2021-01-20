@@ -1,6 +1,6 @@
 # mathematics-for-machine-learning-cousera
 This repository contains all the quizzes/assignments for the specialization "Mathematics for Machine learning" by Imperial College of London on Coursera.</br>
-#### Proof of my certification can be seen [here](https://www.coursera.org/account/accomplishments/specialization/XSG9YARUPCAT).</br> 
+#### Proof of my certification can be seen [here](https://coursera.org/share/af2be03fdb1a3de686b0353c45e5f467).</br> 
 #### Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions(voilation of Coursera Honor Code) presented here.
 ## Updates
 ### Course-1: Linear Algebra - completed</br>
