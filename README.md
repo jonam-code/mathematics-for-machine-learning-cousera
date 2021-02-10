@@ -5,7 +5,6 @@ This repository contains all the quizzes/assignments for the specialization "Mat
 #### Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions(voilation of Coursera Honor Code) presented here.
 
 ## Updates
-
 ### Course-1: Linear Algebra - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week1 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week2 - completed</br>
